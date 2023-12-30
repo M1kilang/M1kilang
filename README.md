@@ -38,7 +38,7 @@ ___
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg' title='react' alt='react'     width='40' height='40'>&nbsp;&nbsp;
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg' title='html' alt='html'   width='40' height='40'>&nbsp;&nbsp;
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg' title='css' alt='css'   width='40' height='40'>&nbsp;&nbsp;
-    <imd src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg' title='bootstrap' alt='bootstrap'   width='40' height='40'>&nbsp;&nbsp;
+    <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg' title='bootstrap' alt='bootstrap'   width='40' height='40'>&nbsp;&nbsp;
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg' title='python'  alt='python' width='40' height='40'>&nbsp;&nbsp;
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain.svg' title='django' alt='django'    width='40' height='40'>&nbsp;&nbsp;
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original.svg' title='sqlite'  alt='sqlite' width='40' height='40'>&nbsp;&nbsp;
