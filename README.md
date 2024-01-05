@@ -34,7 +34,6 @@ ___
 <div>
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg' title='git' alt='git'     width='40' height='40'>&nbsp;&nbsp;
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg'     title='javascript' alt='javascript' width='40' height='40'>&nbsp;&nbsp;
-    <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg' title='nodejs'  alt='nodejs' width='40' height='40'>&nbsp;&nbsp;
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg' title='react' alt='react'     width='40' height='40'>&nbsp;&nbsp;
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg' title='html' alt='html'   width='40' height='40'>&nbsp;&nbsp;
     <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg' title='css' alt='css'   width='40' height='40'>&nbsp;&nbsp;
